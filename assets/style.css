@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.h1{
+    margin-left: 50px;
+    font-size: 7rem;
+    font-weight: bolder;
+    color: white;
+    text-shadow:10px 10px 50px white;
+    margin-bottom: 100px;
+}
+.bg{
+    background-color: #0096c7;
+}
+.m{
+    margin-left: 50px;
+}
+/* section2 */
+
+.content2{
+    text-align: center;
+    font-style: italic;
+}
+h1{
+    font-size: 7rem;
+}
+h2{
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .animation{
+    background-image: url(./image/animi\ 2.jpeg);
+    height: 100vh;
+    width: 100%;
+    animation: animi linear 20s infinite;
+}
+@keyframes animi{
+    0%{
+        transform: none;
+        background-image: url(./image/animi\ 2.jpeg);
+    }
+    30%{
+        transform: none;
+        background-image: url(./image/animi\ 2.jpeg);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    60%{
+        transform: none;
+        background-image: url(./image/animi\ 3.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    30%{
+        transform: none;
+        background-image: url(./image/animi\ 4.jpg);
+        background-size: cover;
+        background-attachment: fixed;
+    }
+} */
